@@ -1,0 +1,37 @@
+body{
+    background-color:#C8F2EF;
+}
+
+body :hover{
+    background-color:#F0EBE3;
+}
+h1{
+  color: blue;
+}
+h3{
+  color: #354259;
+}
+
+.s :hover{
+  color:#1572A1;
+  background-color:#16E85;
+}
+hr{
+border-style: dotted;
+border-bottom:none;
+border-color: grey;
+width: 10%;
+border-width: 5px;
+}
+tbody{
+  background-color:#5F7161;
+}
+img {
+  background-color: #8CC0DE;
+}
+.a{
+  background-color:#97C4B8;
+}
+.b{
+  background-color:#97C4B8;
+}
